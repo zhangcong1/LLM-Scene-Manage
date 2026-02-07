@@ -6,6 +6,8 @@ updatedAt: 2026-02-07T02:44:05.090Z
 provider: 
 ---
 
+
+
 1. 本项目采取双层spec驱动AICoding的开发方式，由AI执行行级编码，人类与AI协作进行Spec维护
 
 2，全部spec存放在./spec文件夹下，除非我直接要求，不要增加新的spec以及在spec内扩展新的内容种类
